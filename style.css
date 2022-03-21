@@ -27,7 +27,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: var(--color) ;
-	background: var(--color-background) url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	background: var(--color-background); 
 	margin: 0; 
 	padding: 0;
 	}
